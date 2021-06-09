@@ -11,6 +11,7 @@ Here, the basic idea is to have as many interactions as possible with people to 
 Possibly, a SQLite Db will be created to add a bit of SQL magic into the project 
 
 For this, I need to:
+
 -Create a Database of those people, with their name, email, and, if known, role and company.
 
 -Write a number of templates, to ask information that can be helpful in the future.
