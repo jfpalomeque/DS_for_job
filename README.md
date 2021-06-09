@@ -7,11 +7,9 @@ For me, this process can be seen just as a problem of information processing, so
 
 Three main areas or paths will be design and developed at the same time:
 
--General interactions and advice
-
--Work market analysis and seld-candidacy
-
--"Classical" job applications analysis
+- General interactions and advice
+- Work market analysis and seld-candidacy
+- "Classical" job applications analysis
 
 
 ## 1-General Interactions
