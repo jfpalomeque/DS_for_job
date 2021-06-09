@@ -3,7 +3,13 @@ In my current job hunting in Data Science, I found the video https://www.youtube
 
 The main goal of this strategy is to make as many personal interactions with colleagues as possible, in order to get advice about the role, position, and industry, and focus on some companies as a target, looking for interactions with employees of those companies, in a more or less random way, to get information about the "target" department, the managers or supervisors of that department, and get information about possible roles or opportunities.
 
-At the end, all this is just a problem of information processing, so I plan to chop all this strategy into different steps and apply a programmatic or analytical approach to each of them. 
+For me, this process can be seen just as a problem of information processing, so I think can be really interesting to design a global "Data Science" project around all this search for a job process. I would like to document all the process and share the different scripts and tools used, and I think that all could be easily adapted to other industries or work areas.
+
+Three main areas or paths will be design and developed at the same time:
+
+-General interactions and advice
+-Work market analysis and seld-candidacy
+-"Classical" job applications analysis
 
 ## 1-General Interactions
 Here, the basic idea is to have as many interactions as possible with people to get information that can be valuable in our job hunting. The original video speaks about to tell random people about your job hunting, but in the current pandemic situation, I am going to simplify this task, so for this interactions will be "Sending email to Data scientifics around the UK and maybe other places in the world, and analyise those emails"
