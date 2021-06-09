@@ -8,8 +8,11 @@ For me, this process can be seen just as a problem of information processing, so
 Three main areas or paths will be design and developed at the same time:
 
 -General interactions and advice
+
 -Work market analysis and seld-candidacy
+
 -"Classical" job applications analysis
+
 
 ## 1-General Interactions
 Here, the basic idea is to have as many interactions as possible with people to get information that can be valuable in our job hunting. The original video speaks about to tell random people about your job hunting, but in the current pandemic situation, I am going to simplify this task, so for this interactions will be "Sending email to Data scientifics around the UK and maybe other places in the world, and analyise those emails"
